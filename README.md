@@ -1,4 +1,4 @@
-# BigData_assignment2
+# Pyspark_Clustering
 This repository contains the solution for Assignment 2 in the Big Data course.  
 The project implements the K-Means clustering algorithm using Apache Spark (PySpark) with the MapReduce paradigm.  
 The solution was developed and tested on Databricks Community Edition.
